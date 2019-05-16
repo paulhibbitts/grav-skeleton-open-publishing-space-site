@@ -2,7 +2,6 @@
 title: 'Read Me'
 published: true
 hide_git_sync_repo_link: false
-git_sync_repo_link_text: 'View Page on GitHub'
 ---
 
 ### Easily Create, Share and Collaborate using Grav Open Publishing (Blogging) Space!  
