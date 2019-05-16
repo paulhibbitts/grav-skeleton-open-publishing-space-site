@@ -1,13 +1,15 @@
 ---
 title: 'Sections Page'
 published: true
+hide_git_sync_repo_link: false
+git_sync_repo_link_text: 'View Page on GitHub'
 hide_page_title: true
 content:
     items: '@self.children'
     order:
         by: folder
         dir: asc
-    limit: 0    
+hide_next_prev_page_buttons: false
 ---
 
 [div class="sections-page-title"]
