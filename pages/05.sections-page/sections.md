@@ -2,7 +2,6 @@
 title: 'Sections Page'
 published: true
 hide_git_sync_repo_link: false
-git_sync_repo_link_text: 'View Page on GitHub'
 hide_page_title: true
 content:
     items: '@self.children'
